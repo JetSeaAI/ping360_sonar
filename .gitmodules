@@ -1,4 +1,4 @@
 [submodule "ping360_sonar/src/ping-cpp"]
 	path = ping360_sonar/src/ping-cpp
-	url = https://github.com/JetSeaAI/ping-cpp.git
+	url = git@github.com:JetSeaAI/ping-cpp.git
 	branch = deployment
